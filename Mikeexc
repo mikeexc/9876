@@ -340,7 +340,7 @@ local Versions = "5.0"
 local Cmd = {}
 
 Cmd[#Cmd + 1] = {Text = "versions "..Versions,Title = "Script versions"}
-Cmd[#Cmd + 1] = {Text = "discord.gg/uDDKWB6axc",Title = "Script owner"}
+Cmd[#Cmd + 1] = {Text = "Script Made By Mikeexc",Title = "Script owner"}
 Cmd[#Cmd + 1] =	{Text = "cmd / cmds",Title = "Show commands bar"}
 Cmd[#Cmd + 1] =	{Text = "rejoin / rj",Title = "Rejoin the game"}
 Cmd[#Cmd + 1] =	{Text = "leave / leaveserver / quit",Title = "Leave the server"}
