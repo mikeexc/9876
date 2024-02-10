@@ -2327,7 +2327,7 @@ function PlayerChatted(Message)
 			if States.SpamChat then
 				local MessagesToChat = {
 					"I'm your dad",
-					"I'm your mom",
+					"I'm your Grandpa",
 					"I'm a god and I'm your dad",
 					"__________",
 					"OMG",
@@ -2341,7 +2341,7 @@ function PlayerChatted(Message)
 					"Read my chat",
 					"Can you die while you are died?",
 					"You know what, I'm a god",
-					"Sub to CXZ NAME_R",
+					"Sub to Mikeexc",
 					"WOW",
 					"wow",
 					"\(￣︶￣*\))"
