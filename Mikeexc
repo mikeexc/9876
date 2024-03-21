@@ -2,7 +2,7 @@
 wait(1.2)
 game.StarterGui:SetCore("SendNotification", {
 Title = "Welcome"; -- the title (ofc)
-Text = "Script Made By Mikeexc"; -- what the text says (ofc)
+Text = "Script Made By ShieldCrpyt"; -- what the text says (ofc)
 Icon = ""; -- the image if u want. 
 Duration = 5; -- how long the notification should in secounds
 })
@@ -351,7 +351,7 @@ local Versions = "5.0"
 local Cmd = {}
 
 Cmd[#Cmd + 1] = {Text = "versions "..Versions,Title = "Script versions"}
-Cmd[#Cmd + 1] = {Text = "Script Made By Mikeexc",Title = "Script owner"}
+Cmd[#Cmd + 1] = {Text = "Script Made By ShieldCrpyt",Title = "Script owner"}
 Cmd[#Cmd + 1] =	{Text = "cmd / cmds",Title = "Show commands bar"}
 Cmd[#Cmd + 1] =	{Text = "rejoin / rj",Title = "Rejoin the game"}
 Cmd[#Cmd + 1] =	{Text = "leave / leaveserver / quit",Title = "Leave the server"}
@@ -2338,7 +2338,7 @@ function PlayerChatted(Message)
 			if States.SpamChat then
 				local MessagesToChat = {
 					"I'm your dad",
-					"I'm your Grandpa",
+					"I'm your Mom",
 					"I'm a god and I'm your dad",
 					"__________",
 					"OMG",
@@ -2352,7 +2352,7 @@ function PlayerChatted(Message)
 					"Read my chat",
 					"Can you die while you are died?",
 					"You know what, I'm a god",
-					"Sub to Mikeexc",
+					"Sub to Shield Crypt",
 					"WOW",
 					"wow",
 					"\(￣︶￣*\))"
